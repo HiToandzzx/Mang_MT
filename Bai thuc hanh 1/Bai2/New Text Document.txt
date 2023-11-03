@@ -1,0 +1,5 @@
+kết nối router với cổng serial; cấu hình RIP
+
+- Thêm module WIC-2T để kết nối router qua cổng Serial;
+
+- Cấu hình định tuyến động với giao thức định tuyến RIP

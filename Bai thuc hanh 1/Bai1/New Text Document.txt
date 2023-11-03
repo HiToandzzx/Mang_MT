@@ -1,0 +1,9 @@
+tạo topology mạng và cấu hình định tuyến tĩnh
+
+- Ở bài lab này ta nối 2 routers qua cổng Fast Ethernet;
+
+- Biểu diễn thông tin địa chỉ logic (IPv4 address) lên topology;
+
+- Cấu hình cho các cổng của router;
+
+- Cấu hình định tuyến tĩnh (static routing) trên các routers.
